@@ -1,0 +1,3 @@
+The Global Automotive Council aims to understand the key factors influencing vehicle CO₂ emissions and explore data-driven strategies for emission reduction.
+A dataset containing detailed information on vehicle specifications, engine characteristics, fuel types, and emission levels has been provided.
+The objective is to analyze this dataset to uncover hidden patterns, identify the major contributors to CO₂ emissions, and develop predictive models to support policy and design decisions in the automotive sector.
